@@ -1,6 +1,8 @@
 # XMR-miner
 Solar Powered Mining Rig Gear
 
+![Screenshot](https://github.com/Sam2much96/XMR-miner/blob/main/BMS%20Schematics/ESP32white_paper.png)
+
 PCB files and Parts purchase link
 
 https://www.pcbway.com/project/shareproject/Jehu_s_DIY_PowerWall_PCB_V2_01.html
